@@ -14,12 +14,12 @@ Each VM has its own operating system, and functions separately from other VMs, e
 
 Platform and Languages:
 
-1: Ubuntu Terminal
+1: Ubuntu Terminal.
 2: Language used for this project is C.
 3: Assembly Language Object Code.
 
 Methodology:
 
-1: Firstly, VM is compiled 
+1: Firstly, VM is compiled. 
 2: Then, All opcodes of directives , jump conditions are set in one file.
-3: After We can pass any assembly language object file to run It on Lightweight virtual machine
+3: After We can pass any assembly language object file to run It on Lightweight virtual machine.
