@@ -23,3 +23,6 @@ Methodology:
 1: Firstly, VM is compiled. 
 2: Then, All opcodes of directives , jump conditions are set in one file.
 3: After We can pass any assembly language object file to run It on Lightweight virtual machine.
+
+Conclusion:
+The given code presents a virtual machine that simulates the execution of assembly code. It utilizes a specific instruction set architecture and bytecode format to interpret and run assembly programs. The code incorporates essential functionalities such as instruction handling, memory management, arithmetic operations, and conditional branching. By providing a platform to emulate assembly code execution, this virtual machine serves as a valuable tool for educational purposes, experimentation, and the development and testing of assembly-based applications.
